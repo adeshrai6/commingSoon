@@ -53,10 +53,6 @@ body {
   background: rgba(20, 1, 1, 0);
 }
 
-.countdown div:second-child {
-  background: rgb(136, 10, 10);
-}
-
 .countdown span {
   display: block;
   font-size: 25px;
