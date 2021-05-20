@@ -32,6 +32,6 @@ const intvl = setInterval(() => {
   if (distance < 0) {
     clearInterval(intvl);
     countdown.style.color = "#17a2b8";
-    countdown.innerHTML = "Launched! 🚀";
+    countdown.innerHTML = "Launched! 🚀😄🚀";
   }
 }, 1000);
