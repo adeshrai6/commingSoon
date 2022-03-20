@@ -97,10 +97,12 @@ body {
 
 @media (max-height: 400px) {
   img {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
   }
 
   h1 {
     display: none;
   }
 }
+
+
